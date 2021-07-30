@@ -1,0 +1,2 @@
+i jumped in master in sample.txt now
+i have to add,commit then push
